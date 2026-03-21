@@ -53,7 +53,7 @@ Mutation-X is the missing piece of Nepal’s digital health infrastructure. Than
 Judge: "What if the AI is wrong?"
 
 "We use a Human-in-the-Loop model. Our AI provides a 'Confidence Score' and an 'Evidence Report.' It doesn't replace the doctor; it acts as an expert assistant that does 40 hours of research in 30 seconds. If the AI is unsure, it flags the variant for manual review."
-https://github.com/Subham130695/Mutate-X?tab=readme-ov-file
+
 Judge: "How can this work with poor internet in Nepal?"
 
 "Our frontend is a PWA (Progressive Web App) designed to work on low bandwidth. The 'heavy lifting' happens on our Modal H100 servers in the cloud. All the user sends is a tiny text file of the mutation coordinates—less than 1KB of data."
